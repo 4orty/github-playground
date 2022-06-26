@@ -11,3 +11,4 @@ rebase-merge-with-conflict test in branch
 3-way-merge-with-conflict-solve-in-github test in main
 rebase-after-solve-conflict test in main
 rebase-after-solve-conflict test in main main first
+rebase-after-solve-conflict-by-rebase test in main main first
