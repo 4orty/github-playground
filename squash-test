@@ -5,4 +5,5 @@ squash test in branch commit #2
 rebase-merge test in main
 rebase-merge-with-conflict test in main
 rebase-merge-with-conflict test in branch
+3-way-merge-with-conflict test in branch
 3-way-merge-with-conflict test in main
