@@ -14,3 +14,4 @@ rebase-after-solve-conflict test in main main first
 rebase-after-solve-conflict-by-rebase test in main main first
 rebase 할 때 충돌나면 새로운 충돌 해결한 부분 어디에 저장될까?
 rebase 충돌 해결한 부분 어디에 저장되는지 테스트하기 위해 branch 변경
+rebase 충돌 해결한 부분 어디에 저장되는지 테스트하기 위해 main 변경 - feature branch에 여러개면?
